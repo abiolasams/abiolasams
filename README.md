@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @abiolasams
-- 👀 I’m interested in data science and machine learning  
+- 👀 I’m interested in machine learning, artificial intelligence, web development and software development.  
 - 🌱 I’m currently learning computer science as a MS Student at Texas Tech University. 
-- 💞️ I’m looking to work as a data scientist or data analyst in the USA as well as collaborate on projects involving data science and transport data
-- 📫 How to reach me, email me at sabiola@ttu.edu
+- 💞️ I’m looking to work as a software engineer in the USA as well as collaborate on projects involving machine learning and software development.
+- 📫 How to reach me, email me at sabiola@ttu.edu.
 -
 
 <!---
